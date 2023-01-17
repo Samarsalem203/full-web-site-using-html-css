@@ -1,0 +1,1846 @@
+/* 1272 */
+@media (max-width: 80em) {
+  .need-text {
+    padding: 3.2rem 6.9rem;
+  }
+}
+
+/* 1224 */
+@media (max-width: 76.5em) {
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.8rem;
+  }
+  .need-text {
+    padding: 3.2rem 7.4rem;
+  }
+  .input-box {
+    margin-top: 1.2rem;
+  }
+  .tittle {
+    margin-bottom: 1.2rem;
+    display: inline-block;
+  }
+  .marketing-text {
+    padding: 1.4rem 1.5rem;
+  }
+  .heading-3 {
+    font-size: 1.6rem;
+  }
+  .android-btn,
+  .ios-btn {
+    padding: 1rem 1.8rem 0.6rem 1.2rem;
+  }
+  .appie-p-text {
+    font-size: 0.8rem;
+  }
+
+  .review-text {
+    font-size: 1.1rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.8rem 0.2rem 0.2rem;
+    width: fit-content;
+  }
+}
+
+/* 1200 */
+@media (max-width: 75em) {
+  .marketing-text h2:nth-child(2) {
+    padding-right: 5rem;
+  }
+}
+
+/* 1151 */
+@media (max-width: 72em) {
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.8rem;
+  }
+  .heading-2 {
+    font-size: 2.5rem;
+  }
+  .marketing-text h2:nth-child(2) {
+    padding-right: 3rem;
+  }
+  .need-text {
+    padding: 3.2rem 5.2rem;
+  }
+  .need-list li {
+    padding: 1rem 1.4rem;
+  }
+  .review-text {
+    font-size: 1rem;
+  }
+  .client-name {
+    font-size: 1.1rem;
+  }
+  .signature-text span {
+    margin-top: 0.4rem;
+    font-size: 0.8rem;
+  }
+  .footer-text,
+  .li-lg-text,
+  .li-lg-text,
+  .grid01 span,
+  .p-style {
+    font-size: 0.9rem;
+  }
+  .ios-btn,
+  .android-btn {
+    padding: 0.7rem 1.2rem 0.4rem 1.2rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.8rem 0.2rem 0.4rem;
+    width: fit-content;
+  }
+  .ios {
+    padding: 0.8rem 1rem;
+  }
+}
+
+/* 1104 */
+@media (max-width: 69em) {
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.6rem;
+  }
+  .p-style {
+    font-size: 0.9rem;
+    margin: 0.5rem 0 2rem 0;
+  }
+  .marketing-text h2:nth-child(2) {
+    padding-right: 4rem;
+  }
+  .need-text {
+    padding: 3.2rem 4.6rem;
+  }
+
+  .review-text {
+    font-size: 1rem;
+  }
+
+  .subgrid h3:first-child,
+  .sub-heading {
+    font-size: 1rem;
+  }
+
+  .rating-grid {
+    gap: 2.2rem;
+  }
+  .rate-span {
+    font-size: 2.2rem;
+  }
+  .rate {
+    padding: 1rem 1.2rem;
+  }
+  .span-text {
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+  .heading-2 {
+    font-size: 2.4rem;
+  }
+  .icon {
+    padding: 0.5rem;
+    height: 2rem;
+  }
+
+  .need-list li {
+    padding: 1rem 1.4rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.9rem 0.2rem 0.2rem;
+    width: fit-content;
+  }
+  .btn-span,
+  .client-name {
+    font-size: 1.2rem;
+  }
+  .btn p {
+    font-size: 0.8rem;
+  }
+}
+
+/* 1080 */
+@media (max-width: 67em) {
+  .subscrib-text {
+    font-size: 0.8rem;
+  }
+  .price-grid-content {
+    padding: 2.2rem 2rem 1.2rem 2rem;
+  }
+
+  .appie,
+  .header {
+    max-width: 120rem;
+  }
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.6rem;
+  }
+  .heading-4 {
+    font-size: 1rem;
+  }
+  .need-text {
+    padding: 3.2rem 3.8rem;
+  }
+  .downloadApp-section {
+    padding: 4.2rem 2rem;
+  }
+  .p-style {
+    font-size: 0.8rem;
+    margin: 0.5rem 0 2rem 0;
+  }
+  .subgrid h3:first-child,
+  .sub-heading {
+    font-size: 1rem;
+  }
+  .review-text {
+    padding-right: 2rem;
+    font-size: 1rem;
+  }
+  .client-name {
+    font-size: 1rem;
+  }
+  .download-text {
+    word-spacing: normal;
+  }
+  .rating-grid {
+    gap: 2.2rem;
+  }
+  .rate-span {
+    font-size: 2.2rem;
+  }
+  .rate {
+    padding: 1rem 1.2rem;
+  }
+  .span-text {
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+  .heading-2 {
+    font-size: 2.2rem;
+  }
+  .icon {
+    padding: 0.5rem;
+    height: 2rem;
+  }
+
+  .need-list li {
+    padding: 1rem 1.4rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.9rem 0.2rem 0.2rem;
+    width: fit-content;
+  }
+}
+
+/* 1048  */
+@media (max-width: 65.5em) {
+  .appie,
+  .header {
+    max-width: 120rem;
+  }
+  .appie-text {
+    line-height: 1.1;
+    padding: 1rem 3rem 1rem 1rem;
+  }
+
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.6rem;
+  }
+  .heading-4 {
+    font-size: 1rem;
+  }
+
+  .downloadApp-section {
+    padding: 4.2rem 2rem;
+  }
+  .p-style {
+    font-size: 0.8rem;
+    margin: 0.5rem 0 2rem 0;
+  }
+  .subgrid h3:first-child,
+  .sub-heading {
+    font-size: 1rem;
+  }
+  .review-text {
+    padding-right: 2rem;
+    font-size: 1rem;
+  }
+  .client-name {
+    font-size: 1rem;
+  }
+  .download-text {
+    word-spacing: normal;
+  }
+  .rating-grid {
+    gap: 2.2rem;
+  }
+  .rate-span {
+    font-size: 2.2rem;
+  }
+  .rate {
+    padding: 1rem 1.2rem;
+  }
+  .span-text {
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+  .heading-2 {
+    font-size: 2.2rem;
+  }
+  .icon {
+    padding: 0.5rem;
+    height: 2rem;
+  }
+
+  .need-list li {
+    padding: 1rem 1.4rem;
+  }
+  .need-text {
+    padding: 3.2rem 7rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.9rem 0.2rem 0.2rem;
+    width: fit-content;
+  }
+}
+
+/* 1039 */
+@media (max-width: 65em) {
+  .sponser-text {
+    width: 55%;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+}
+/* 1024 */
+@media (max-width: 64.25em) {
+  header {
+    padding: 1.8rem 2rem;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  .appie {
+    grid-template-columns: 0.75fr 1fr;
+  }
+  .marketing-section {
+    padding: 1rem 3.2rem;
+  }
+  .how-work-section,
+  .how-work2-section,
+  .price-section,
+  .review-section,
+  .review-section {
+    padding: 3.8rem 3.2rem;
+  }
+  .marketing-text h2:nth-child(2) {
+    margin-right: 0;
+  }
+  .review-grid {
+    padding: 5.2rem 6.8rem;
+  }
+  .sub-heading {
+    font-size: 1rem;
+  }
+  .marketing {
+    gap: 1.2rem;
+  }
+  .need-text h2 {
+    margin: 0 3rem;
+  }
+  .need-text {
+    padding: 3.2rem 6rem;
+  }
+  .need-list {
+    padding: 3.2rem;
+  }
+  .need-list li {
+    padding: 1rem 1.2rem;
+  }
+  .rating-grid {
+    gap: 2rem;
+    margin: 5rem 3rem;
+  }
+  .sponser-text {
+    width: 55%;
+  }
+  .need-img {
+    width: 25rem;
+  }
+}
+
+/* 962 */
+@media (max-width: 60.25em) {
+  .li-text {
+    font-size: 0.8rem;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .subscrib-text {
+    font-size: 0.7rem;
+  }
+  .price-grid-content {
+    padding: 2.2rem 2rem 1.2rem 2rem;
+  }
+
+  .marketing-text {
+    padding: 1.4rem 0;
+  }
+  .grid {
+    padding: 2.4rem 1.8rem;
+  }
+  .sponser-text {
+    width: 60%;
+  }
+  .marketing-text h2:nth-child(2) {
+    padding-right: 3.8rem;
+  }
+  .need-text h2 {
+    margin: 0 3.6rem;
+  }
+  .need-text {
+    padding: 3.2rem 5rem;
+  }
+}
+
+/* 924 */
+@media (max-width: 57.75em) {
+  .price-grid {
+    grid-template-columns: repeat(1, 0.75fr);
+    justify-content: center;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+
+  .price-grid-content {
+    padding: 3rem;
+  }
+  .subscrib-text {
+    font-size: 1rem;
+  }
+  .sub-list {
+    gap: 0.8rem;
+    font-size: 1.2rem;
+  }
+  .price-grid-content:nth-child(2) a {
+    font-size: 0.9rem;
+  }
+  .need-text {
+    padding: 3.2rem 3rem;
+  }
+}
+
+/* 880 */
+@media (max-width: 55em) {
+  .appie-text {
+    line-height: 2.5;
+    padding: 1rem 1rem 1rem 1rem;
+  }
+  .sponsers-section {
+    padding: 0 2.1rem 4.2rem 2.1rem;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .grid {
+    padding: 2.3rem 1.2rem;
+  }
+  .marketing {
+    padding: 2.2rem 5rem 0 2.6rem;
+  }
+  .marketing-text h2:nth-child(2) {
+    padding-right: 0.8rem;
+  }
+  .need-text {
+    padding: 3.2rem 3rem;
+  }
+  .need-text h2 {
+    margin: 0 1.4rem;
+  }
+  .grid-1 {
+    gap: 0.5rem;
+  }
+  .marketing-grid {
+    gap: 1rem;
+  }
+
+  .p-style-white {
+    font-size: 0.9rem;
+  }
+}
+
+/* 801 */
+@media (max-width: 50.25em) {
+  .marketing-text h2:nth-child(2) {
+    padding-right: 0;
+  }
+  .appie-text {
+    line-height: 1;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 2.4rem;
+  }
+  .grid-1 {
+    gap: 0.5rem;
+  }
+  .marketing-grid {
+    padding: 0;
+    gap: 2rem;
+  }
+  .marketing {
+    padding: 2.2rem 2rem 0 2.6rem;
+  }
+  header {
+    padding: 2rem 2rem 4.2rem 2.2rem;
+    gap: 1rem;
+  }
+  .icon {
+    padding: 0.4rem;
+    height: 1.8rem;
+  }
+  .need-text {
+    padding: 2rem 0.5rem 3.2rem 0.5rem;
+  }
+  .need-list {
+    padding: 1.2rem;
+  }
+  .need-img {
+    width: 22rem;
+  }
+  .review-grid {
+    padding: 5.2rem 6rem;
+  }
+  .review-text {
+    padding-right: 1rem;
+    font-size: 0.9rem;
+  }
+  .download-text {
+    padding-right: 0;
+  }
+
+  .sponser-text {
+    width: 80%;
+  }
+  .sponsers-grid-1 {
+    gap: 1.5rem;
+  }
+  .watch {
+    padding: 1.2rem 0 2rem 2rem;
+  }
+  .heading-3 {
+    font-size: 1.2rem;
+  }
+  .subgrid h3:first-child {
+    font-size: 0.9rem;
+  }
+  .rating-grid {
+    gap: 1rem;
+    margin: 5rem 2rem;
+  }
+
+  .footer-section {
+    padding: 4.2rem 2rem 2rem 2rem;
+  }
+}
+
+/* 768 tablet Screen*/
+@media (max-width: 48em) {
+  header {
+    padding: 2rem;
+    gap: 0.5rem;
+  }
+  .appie-text {
+    line-height: 1;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .heading-1 {
+    font-size: 2.6rem;
+  }
+  .heading-2 {
+    font-size: 2.2rem;
+  }
+  .heading-4 {
+    font-size: 0.9rem;
+  }
+  .appie-section {
+    padding-top: 2.2rem;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .appie {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid01 .more {
+    justify-content: center;
+  }
+  .footer-section {
+    padding: 4.2rem 2rem 0 2rem;
+
+    text-align: center;
+  }
+
+  .footer-links {
+    justify-content: center;
+  }
+
+  .footer-grid {
+    gap: 2rem;
+  }
+  .footer-text {
+    font-size: 0.7rem;
+  }
+  .li-text {
+    justify-content: center;
+    font-size: 0.9rem;
+    padding: 0.6rem 0;
+    gap: 0.6rem;
+  }
+  .copy-right p {
+    font-size: 0.7rem;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+  .copy-right {
+    padding-bottom: 2.2rem;
+    display: block;
+  }
+  .footer-btns {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .footer-section {
+    text-align: center;
+  }
+  .review-section {
+    padding: 0 2rem;
+  }
+  .review-grid {
+    padding: 4.4rem 2rem;
+  }
+  .need-img {
+    width: 15rem;
+  }
+  .review {
+    padding: 0 0.8rem;
+  }
+  .price-grid {
+    grid-template-columns: repeat(1, 0.75fr);
+    justify-content: center;
+  }
+  .download-text,
+  .sponser-text {
+    width: 80%;
+  }
+  .sponsers-section {
+    padding: 4rem 5.2rem;
+  }
+  .new-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+  }
+  .sponser-img {
+    padding: 3.2rem;
+  }
+  .sponsers-grid-2 div:nth-child(4) {
+    grid-column: 1 /4;
+  }
+  .need-grid {
+    /* display: grid; */
+    grid-template-columns: 3fr 2fr;
+  }
+  .need-grid {
+    padding: 2rem 0;
+  }
+  .need-list {
+    padding: 0;
+  }
+  .need-list li {
+    padding: 1rem;
+  }
+  .need-text h2 {
+    margin: 1.5rem;
+  }
+  .need-text {
+    margin: 0 9rem;
+  }
+  .p-style-white,
+  .p-style {
+    font-size: 0.8rem;
+    line-height: 1.4;
+  }
+  .rating-grid,
+  .grid-box {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+  }
+  .heading-3 {
+    font-size: 1.1rem;
+  }
+  .watch {
+    padding: 1.2rem 0 2rem 0.8rem;
+  }
+  .footer-text,
+  .li-lg-text,
+  .li-lg-text,
+  .grid01 span {
+    font-size: 0.8rem;
+  }
+
+  .how-work2-section {
+    padding: 1rem 3.2rem;
+  }
+  .marketing-section {
+    padding: 1rem 2.6rem;
+  }
+  .how-work-section {
+    padding: 3.2rem 3.2rem 1rem 3.2rem;
+  }
+  .nav-link {
+    font-size: 0.9rem;
+  }
+  .marketing-text {
+    padding: 1.4rem 0 0 0.6rem;
+  }
+  .marketing {
+    padding: 2rem 0 0 0;
+    margin-top: 2rem;
+  }
+  .sub-heading {
+    font-size: 0.9rem;
+    padding-right: 0rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  .marketing-grid {
+    padding: 0 1rem 0 0;
+    gap: 1.5rem;
+  }
+  .grid-1 {
+    gap: 0.4rem;
+  }
+  .subgrid p {
+    font-size: 0.8rem;
+  }
+  .view-features-btn {
+    padding: 0.6rem 2rem 0.6rem 1.2rem;
+  }
+  .marketing-text h2:nth-child(2) {
+    margin-right: 0;
+  }
+  .marketing {
+    gap: 1rem;
+    padding: 2rem 2.2rem 0 0;
+  }
+}
+
+/* 712 */
+@media (max-width: 44.5em) {
+  header {
+    padding: 2rem;
+    gap: 0.5rem;
+  }
+  .appie-text {
+    line-height: 1;
+  }
+  .img-box {
+    align-self: end;
+  }
+  .appie-section {
+    padding-top: 2rem;
+  }
+  .appie-input {
+    padding: 0.7rem 4.4rem 0.7rem 1rem;
+  }
+  .sponsers-section {
+    padding: 4rem 4.2rem;
+  }
+}
+
+/* 700 */
+@media (max-width: 43.75em) {
+  header {
+    grid-template-columns: 0.5fr 3fr 1fr;
+    padding: 1.6rem;
+    gap: 0;
+  }
+  .sponsers-section {
+    padding: 4rem 3.8rem;
+  }
+  .appie-text {
+    line-height: 1;
+  }
+  .view-features-btn {
+    padding: 0.6rem 1.7rem 0.6rem 1.7rem;
+  }
+  .sponsers-section {
+    padding: 4rem 3rem;
+  }
+  .nav-link,
+  .view-features-btn a,
+  .heading-4 {
+    font-size: 0.8rem;
+  }
+  .nav-btn a {
+    padding: 0.7rem 1rem;
+  }
+  .appie-input {
+    padding: 0.7rem 4.4rem 0.7rem 1rem;
+  }
+  .heading-2 {
+    font-size: 2rem;
+  }
+  .marketing-text {
+    padding: 1.4rem 0 0 0rem;
+  }
+  .marketing-section {
+    padding: 1rem 2rem 0 2rem;
+  }
+  .marketing {
+    gap: 0.5rem;
+    padding: 2rem 3rem 0 0;
+  }
+  .marketing-grid {
+    padding: 0;
+  }
+  .need-text {
+    padding: 2rem 0rem 3.2rem 0.5rem;
+  }
+  .download-text,
+  .sponser-text {
+    width: 90%;
+  }
+  .need-text h2 {
+    margin: 0rem;
+  }
+  .p-style-white {
+    font-size: 0.7rem;
+  }
+}
+
+/* 648 */
+@media (max-width: 40.5em) {
+  .appie-text {
+    line-height: 1;
+  }
+  .nav-btn a {
+    font-size: 0.8rem;
+  }
+  .need-text h2 {
+    margin: 0rem;
+  }
+  .heading-1,
+  .appie-text p:first-child {
+    font-size: 2.2rem;
+  }
+  .need-text {
+    padding: 2rem 0rem 3.2rem 0rem;
+  }
+  .p-style-white {
+    font-size: 0.7rem;
+  }
+  .span-text {
+    font-size: 0.8rem;
+  }
+  .grid {
+    padding: 2rem 2rem;
+  }
+  .heading-3 {
+    font-size: 1rem;
+  }
+  .view-features-btn {
+    padding: 0.6rem 1.4rem 0.6rem 1.4rem;
+  }
+}
+
+/* 632 */
+@media (max-width: 39.5em) {
+  header {
+    grid-template-columns: 0.5fr 3fr 0.9fr;
+    gap: 0.5rem;
+  }
+
+  .appie-text {
+    line-height: 1.1;
+  }
+  .nav-btn a,
+  .span-text,
+  .nav-link {
+    font-size: 0.7rem;
+  }
+  .need-list li {
+    padding: 0.8rem;
+  }
+  .need-list {
+    padding: 0 2.8rem;
+  }
+  .marketing {
+    gap: 0.5rem;
+    padding: 2rem 1.8rem 0 0;
+  }
+  .heading-3 {
+    font-size: 1rem;
+  }
+  .subgrid h3:first-child {
+    font-size: 0.8rem;
+  }
+  .marketing-grid {
+    gap: 1rem;
+  }
+  .grid {
+    padding: 1.8rem;
+  }
+  .p-style-white {
+    font-size: 0.6rem;
+  }
+}
+
+/* 596 */
+@media (max-width: 37.25em) {
+  .appie {
+    grid-template-columns: 0.5fr 2fr;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  .imgs {
+    grid-template-columns: 1fr;
+  }
+  .subgrid h3:first-child {
+    font-size: 1rem;
+  }
+  .marketing-section {
+    padding: 1rem 2rem;
+  }
+  .marketing {
+    grid-template-columns: 1fr;
+  }
+  .appie-p-text {
+    font-size: 0.9rem;
+  }
+  .grid-1 {
+    justify-content: flex-start;
+    margin: 0;
+    gap: 0.8rem;
+  }
+  .view-features-btn {
+    padding: 0.6rem 2rem 0.4rem 2rem;
+  }
+  .view-features-btn a {
+    font-size: 0.7rem;
+  }
+  .marketing-text {
+    padding: 0.5rem;
+  }
+  .marketing-text h2,
+  .sub-heading,
+  .marketing-text span {
+    text-align: center;
+    display: block;
+  }
+  .price-section {
+    padding: 3.8rem 2rem;
+  }
+  .review-text {
+    font-size: 0.8rem;
+  }
+  .review-grid {
+    gap: 1.4rem;
+  }
+  .client-img img {
+    width: 6.5rem;
+  }
+  .sub-heading {
+    font-size: 1rem;
+    margin-top: 0.8rem;
+  }
+  .span-text {
+    font-size: 0.7rem;
+  }
+  .subgrid p {
+    font-size: 0.9rem;
+  }
+  .p-style {
+    font-size: 0.8rem;
+  }
+  .marketing-grid {
+    grid-template-columns: 1fr;
+    margin-top: 2.6rem;
+    gap: 0;
+  }
+  .marketing {
+    margin-top: 0;
+    padding: 0.7rem;
+  }
+  .marketing-img {
+    display: none;
+  }
+  .nav-btn a,
+  .span-text {
+    font-size: 0.6rem;
+  }
+  .nav-list li {
+    padding: 0.4rem;
+  }
+  /* .heading-1,
+  .appie-text p:first-child {
+    font-size: 2rem;
+  } */
+  .need-list {
+    padding: 0 2rem;
+  }
+  .heading-3 {
+    font-size: 0.9rem;
+  }
+}
+
+/* 568 */
+@media (max-width: 35.5em) {
+  .sponser-text {
+    padding: 0;
+    line-height: 2;
+  }
+  .imgs {
+    grid-template-columns: 1fr;
+  }
+  .sponsers-section {
+    padding: 4rem;
+  }
+  .navBar {
+    display: none;
+  }
+  .arrow-features {
+    right: 2%;
+  }
+  .appie-text {
+    line-height: 1.1;
+  }
+  header {
+    grid-template-columns: 1fr 2fr 0.3fr;
+    padding: 2.2rem;
+  }
+  .menu-icon {
+    display: inline-block;
+    text-align: center;
+  }
+  .nav-btn {
+    justify-self: end;
+  }
+  .appie-input {
+    padding: 0.7rem 6.4rem 0.7rem 1rem;
+  }
+
+  .appie-section {
+    padding: 2rem 0rem 0 2rem;
+  }
+  .appie,
+  .review-grid,
+  .signature,
+  .need-grid {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  .need-list {
+    padding: 2rem;
+  }
+  .need {
+    padding-bottom: 3.2rem;
+  }
+  .review-text {
+    font-size: 0.9rem;
+    margin-bottom: 1.8rem;
+  }
+  .grid-box,
+  .rating-grid {
+    grid-template-columns: 0.75fr;
+    justify-content: center;
+  }
+  .need-list li {
+    padding: 0.8rem 4rem 0.8rem 1.2rem;
+  }
+  .span-text,
+  .nav-btn a {
+    font-size: 0.8rem;
+  }
+  .p-style-white {
+    font-size: 0.7rem;
+  }
+  .review-grid {
+    padding: 2.2rem 2rem;
+    text-align: center;
+  }
+  .need-grid {
+    padding: 0;
+  }
+  .need-text {
+    padding: 3.2rem 0rem 0rem 0rem;
+    margin: 0 6.4rem;
+    line-height: 2;
+  }
+  .scroll {
+    display: none;
+  }
+  .img-box {
+    width: 20rem;
+    justify-self: end;
+  }
+  .appie-text p:first-child,
+  .heading-1 {
+    padding-right: 3rem;
+    display: contents;
+  }
+
+  .price-text h1:first-child {
+    font-size: 2.4rem;
+  }
+
+  .p-style,
+  .heading-4 {
+    font-size: 0.9rem;
+  }
+  .heading-5 {
+    font-size: 1.4rem;
+  }
+  .grid {
+    text-align: center;
+  }
+  .grid-icon {
+    margin: 1rem auto;
+  }
+  .how-text-box {
+    text-align: center;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+
+  .view-features-btn {
+    padding: 0.6rem 1.6rem 0.6rem 1.6rem;
+  }
+  .view-features-btn a {
+    font-size: 0.8rem;
+  }
+  .more {
+    justify-content: center;
+  }
+  .grid {
+    padding: 1.6rem;
+  }
+  .downloadApp-section {
+    margin-top: 3rem;
+  }
+  .how-work2-section {
+    padding: 1rem 2rem;
+  }
+  .sub-heading {
+    font-size: 0.9rem;
+    /* text-align: end; */
+  }
+  .sponser-text {
+    width: 100%;
+  }
+
+  .new-grid {
+    grid-template-columns: repeat(3, 0.75fr);
+    justify-items: center;
+  }
+  .sponsers-grid-2 {
+    gap: 2rem;
+  }
+}
+
+/* 508 */
+@media (max-width: 31.75em) {
+  .sponser-text {
+    padding: 0;
+    line-height: 2;
+  }
+  .sub-list {
+    font-size: 1rem;
+  }
+  .subscrib-text {
+    font-size: 0.8rem;
+  }
+  .sponsers-section {
+    padding: 4rem 3rem;
+  }
+  .sponser-img {
+    padding: 2.2rem;
+  }
+  .customer-img img {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+  .imgs {
+    grid-template-columns: 1fr;
+  }
+  .price-text h1:first-child {
+    font-size: 1.6rem;
+  }
+  .appie-text p:first-child {
+    font-size: 2.2rem;
+  }
+  .sub-heading {
+    font-size: 0.8rem;
+    /* text-align: right; */
+  }
+  .price-text {
+    line-height: 2;
+  }
+  .appie-text h1:first-child {
+    font-size: 1.6rem;
+  }
+  .p-style,
+  .heading-4 {
+    font-size: 0.8rem;
+  }
+  .need-text {
+    padding: 3.2rem 0rem 0rem 0rem;
+    margin: 0 4.2rem;
+    line-height: 2;
+  }
+  .p-style-white {
+    font-size: 0.6rem;
+  }
+  .view-features-btn {
+    padding: 0.5rem 1.4rem 0.5rem 1.4rem;
+  }
+}
+
+/* 432 Small Screen*/
+@media (max-width: 27em) {
+  .appie-input {
+    padding: 0.7rem 0.8rem 0.7rem 1rem;
+  }
+
+  .price-text h1:first-child {
+    font-size: 1.6rem;
+  }
+  .appie-text {
+    line-height: 1.1;
+    padding: 1rem 1rem 0rem 1rem;
+  }
+
+  .customer-img img {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+  .subscrib-text {
+    font-size: 0.8rem;
+  }
+  .imgs {
+    grid-template-columns: 1fr;
+  }
+  .sponser-text {
+    padding: 0;
+    line-height: 2;
+  }
+  .navBar {
+    display: none;
+  }
+  .img-box {
+    width: 15rem;
+    justify-self: end;
+  }
+  header {
+    padding: 1.4rem 2rem;
+    gap: 0;
+    grid-template-columns: 0.7fr 2fr 0.3fr;
+  }
+  .sub-list {
+    font-size: 1rem;
+  }
+  .subscrib-text {
+    font-size: 0.9rem;
+  }
+  .appie-section {
+    padding-top: 1.8rem;
+  }
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 1.7rem;
+    display: contents;
+  }
+  .how-text-box {
+    flex-direction: column;
+  }
+  .heading-2 {
+    font-size: 1.8rem;
+  }
+  .heading-4 {
+    font-size: 0.7rem;
+  }
+  .how-work-section {
+    padding: 4.2rem 1.2rem;
+    text-align: center;
+  }
+  .view-features-btn {
+    margin-top: 1.2rem;
+  }
+  .view-features-btn a {
+    font-size: 0.7rem;
+  }
+  .price-grid-content:nth-child(2) a {
+    font-size: 0.7rem;
+  }
+  .marketing-text {
+    padding: 0.5rem;
+  }
+  .grid {
+    margin: 0 1.4rem;
+    padding: 0 1rem 2rem 1rem;
+  }
+  .grid-1 {
+    justify-content: normal;
+    margin: 0;
+  }
+
+  .icon {
+    padding: 0.4rem;
+    height: 1.8rem;
+  }
+  .more {
+    justify-content: center;
+  }
+  .subgrid h3:first-child {
+    font-size: 1rem;
+  }
+  .marketing-section {
+    padding: 1rem 2rem;
+  }
+  .marketing-text h2,
+  .sub-heading,
+  .marketing-text span {
+    text-align: center;
+  }
+  .marketing-text h2:nth-child(2) {
+    font-size: 1.6rem;
+  }
+  .sub-heading {
+    font-size: 0.9rem;
+    margin-top: 0.8rem;
+  }
+  .span-text {
+    font-size: 0.7rem;
+  }
+  .p-style,
+  .need-text-box h5:first-child {
+    font-size: 0.8rem;
+  }
+  .marketing-grid {
+    grid-template-columns: 1fr;
+    margin-top: 2rem;
+    gap: 0;
+  }
+  .marketing {
+    margin-top: 0;
+  }
+  .need-text,
+  .need-text h2:first-child {
+    margin: 0;
+  }
+  .need-text h2:first-child {
+    font-size: 2.2rem;
+  }
+
+  .p-style {
+    font-size: 0.8rem;
+  }
+
+  .p-style-white,
+  .sub-heading {
+    font-size: 0.6rem;
+  }
+  .need-text {
+    padding: 2.2rem;
+  }
+
+  .imgs-grid,
+  .text-grid,
+  .footer-grid,
+  .appie,
+  .grid-box,
+  .price-grid,
+  .need-grid,
+  .marketing,
+  .review-grid,
+  .rating-grid {
+    grid-template-columns: 1fr;
+  }
+  .copy-right,
+  .menu-icon {
+    display: inline-block;
+    text-align: center;
+  }
+  .scroll {
+    display: none;
+  }
+  .need-img {
+    width: 18rem;
+    justify-self: center;
+    margin: 1.8rem 0 4rem 0;
+  }
+  .need-list,
+  .need-grid,
+  .subgrid h3:first-child,
+  .marketing-text h2:nth-child(2),
+  .download-text,
+  .review-text {
+    padding: 0;
+  }
+  .marketing {
+    padding: 1rem;
+  }
+  .marketing-img {
+    display: none;
+  }
+  .tittle {
+    margin-bottom: 0.8rem;
+    font-size: 0.8rem;
+    display: block;
+  }
+  .nav-btn {
+    justify-self: end;
+  }
+  .nav-btn a {
+    padding: 0.7rem 1rem;
+    font-weight: 700;
+    font-size: 0.8rem;
+  }
+  .how-work2-section {
+    padding: 0 1.4rem;
+  }
+
+  .rating-grid {
+    gap: 1.6rem;
+    margin: 5rem 2rem;
+  }
+  .rate {
+    box-shadow: 0 2.4rem 5rem 1.2rem rgb(20 20 20 / 7%);
+    padding: 1rem 0;
+  }
+  .download-text,
+  .sponser-text {
+    width: 100%;
+  }
+  .downloadApp-section {
+    padding: 7.2rem 2.2rem;
+  }
+  .download-text h2:nth-child(2),
+  .download-text h2:nth-child(3) {
+    font-size: 1.6rem;
+  }
+
+  .android-btn i {
+    padding-right: 0.2rem;
+  }
+  .android-btn span {
+    font-size: 1.2rem;
+  }
+  .ios-btn,
+  .android-btn {
+    padding: 0.7rem 2.4rem 0.4rem 1.2rem;
+  }
+  .btn p {
+    font-size: 0.7rem;
+  }
+  .android-btn {
+    border: solid 1.5px #0c0e33;
+  }
+  .btn i {
+    font-size: 1.8rem;
+  }
+  .price-section {
+    padding: 4.2rem 0;
+  }
+  .price-grid {
+    gap: 1.8rem;
+    margin: 0 2rem;
+  }
+  .price-subscrib {
+    padding: 0.2rem 0.8rem 0.2rem 0.2rem;
+    margin: 3.2rem auto;
+    width: fit-content;
+  }
+
+  .review-section {
+    padding: 1.2rem;
+  }
+  .review-grid {
+    padding: 3rem 0.6rem;
+    gap: 1.2rem;
+  }
+  .sub-list p {
+    font-size: 0.8rem;
+  }
+  .price-grid-content {
+    padding: 2.2rem 1rem 1.2rem 1.8rem;
+  }
+  .signature {
+    display: block;
+    margin-top: 1.4rem;
+  }
+  .signature-text {
+    text-align: center;
+  }
+  .sponsers-section {
+    padding: 3.2rem 2rem;
+  }
+  .sponser-text {
+    padding: 0 1.4rem;
+  }
+
+  .sponsers-grid-1,
+  .sponsers-grid-2 {
+    gap: 0.8rem;
+    /* padding: 0.5rem; */
+  }
+  .sponser-img {
+    padding: 1.2rem 1.5rem;
+  }
+  .new-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+  }
+
+  .sponsers-grid-2 div:nth-child(4) {
+    grid-column: 1 /4;
+  }
+  .footer-section {
+    padding: 4.2rem 0 0 0;
+
+    text-align: center;
+  }
+
+  .footer-links {
+    justify-content: center;
+  }
+
+  .footer-grid {
+    gap: 2rem;
+  }
+  .footer-text {
+    font-size: 0.7rem;
+  }
+  .li-text {
+    justify-content: center;
+    font-size: 0.9rem;
+    padding: 0.6rem 0;
+    gap: 0.6rem;
+  }
+  .copy-right p,
+  .review-text {
+    font-size: 0.8rem;
+    line-height: 1.8;
+    text-align: center;
+  }
+
+  .ios {
+    font-size: 0.8rem;
+    padding: 0.6rem 1rem;
+    margin-bottom: 1rem;
+  }
+  .imgs {
+    grid-template-columns: 1fr;
+    margin-bottom: 4rem;
+  }
+  .watch {
+    padding: 1rem 0 2rem 1.2rem;
+  }
+  .watch h3 {
+    font-size: 1.1rem;
+  }
+  .client-name {
+    font-size: 1rem;
+  }
+  .grid-icon {
+    margin: 1.4rem auto;
+  }
+  .signature-text span {
+    margin-top: 0;
+    font-size: 0.7rem;
+  }
+}
+
+/* 375 */
+@media (max-width: 23.5em) {
+  .ios-btn {
+    padding: 0.6rem 1.4rem;
+  }
+  .price-text {
+    line-height: 2;
+  }
+  .sub-list {
+    font-size: 1rem;
+  }
+  .price-text h1:first-child {
+    font-size: 1.6rem;
+  }
+
+  .imgs {
+    grid-template-columns: 1fr;
+  }
+  .sponser-text {
+    padding: 0;
+    line-height: 2;
+  }
+  .price-text h1:first-child {
+    font-size: 1.4rem;
+  }
+  .appie-text {
+    padding: 0.5rem 0.5rem 0rem 0rem;
+    line-height: 1.1;
+  }
+  .heading-4 {
+    font-size: 0.6rem;
+  }
+  .heading-2 {
+    font-size: 1.6rem;
+  }
+  .need-text {
+    padding: 2rem;
+  }
+  .need-text h2:first-child {
+    font-size: 2rem;
+  }
+  .appie-input {
+    padding: 0.7rem 1rem 0.7rem 1rem;
+  }
+  .need-list li {
+    padding: 0.8rem 1rem 0.8rem 1.2rem;
+  }
+  .sponser-text {
+    padding: 0;
+  }
+  .price-section {
+    padding: 4.2rem 1.5rem;
+  }
+  .subscrib-text {
+    font-size: 0.9rem;
+  }
+  .sub-heading {
+    font-size: 0.6rem;
+    padding: 0;
+  }
+  .review-text {
+    font-size: 0.7rem;
+  }
+  .watch h3 {
+    font-size: 0.9rem;
+  }
+  .ios-btn,
+  .android-btn {
+    padding: 0.7rem 1.7rem 0.4rem 1.2rem;
+  }
+
+  .marketing-text h2:nth-child(2) {
+    font-size: 1.3rem;
+  }
+
+  .customer-img img {
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+}
+
+@media (max-width: 20em) {
+  header {
+    padding: 1.4rem;
+  }
+
+  .appie-section {
+    padding: 3.2rem 0 0 0.5rem;
+  }
+  .sub-list {
+    font-size: 1rem;
+  }
+  .appie-text p:first-child,
+  .heading-1 {
+    font-size: 1.5rem;
+    display: contents;
+  }
+  .subscrib-text {
+    font-size: 0.9rem;
+  }
+  .price-text {
+    line-height: 2;
+  }
+  .price-text h1:first-child {
+    font-size: 1.4rem;
+  }
+  .heading-2 {
+    font-size: 1.6rem;
+  }
+  .view-features-btn a {
+    font-size: 0.7rem;
+  }
+  .p-style-white {
+    font-size: 0.6rem;
+  }
+  .how-work-section,
+  .how-work2-section {
+    padding: 2rem 1.4rem;
+  }
+  .need-list li {
+    padding: 0.8rem 0.5rem 0.8rem 0.8rem;
+  }
+  .need-text {
+    padding: 1rem;
+  }
+  .need-text h2:first-child {
+    font-size: 1.8rem;
+  }
+  .subgrid p {
+    font-size: 0.7rem;
+  }
+  .marketing-text {
+    padding: 1rem;
+  }
+  .sub-heading {
+    font-size: 0.8rem;
+  }
+  .marketing {
+    padding: 0.5rem;
+  }
+  .sponser-text {
+    padding: 0;
+  }
+  .ios-btn,
+  .android-btn {
+    padding: 0.7rem 1.2rem 0.2rem 0.8rem;
+  }
+  .price-section {
+    padding: 4.2rem 0.7rem;
+  }
+  .ios {
+    gap: 0.1rem;
+    padding: 0.6rem 0.8rem;
+    margin-bottom: 0;
+  }
+  .footer-btns {
+    gap: 0.5rem;
+
+    padding: 0.2rem;
+  }
+  .price-text h1:first-child {
+    font-size: 1.4rem;
+  }
+  .marketing-text h2:nth-child(2) {
+    font-size: 1.2rem;
+  }
+  .subgrid h3:first-child {
+    font-size: 0.9rem;
+  }
+  .subscrib-text {
+    font-size: 0.8rem;
+  }
+  .how-text-box {
+    gap: 0.4rem;
+  }
+  .view-features-btn {
+    padding: 0.6rem 2.5rem 0.6rem 1rem;
+  }
+}
+
+/* 300 */
+@media (max-width: 18.75em) {
+  .sponser-img {
+    padding: 1rem;
+  }
+  .sponsers-section {
+    padding: 3.2rem 1rem;
+  }
+  .price-text {
+    line-height: 2;
+  }
+
+  .appie-text p:first-child,
+  .price-text h1:first-child .heading-1 {
+    font-size: 1.2rem;
+    display: contents;
+  }
+  .sub-heading {
+    font-size: 0.6rem;
+  }
+  .subscrib-text {
+    font-size: 0.7rem;
+  }
+  .downloadApp-section {
+    padding: 7.2rem 1.8rem;
+  }
+  .watch h3 {
+    font-size: 0.8rem;
+  }
+  .how-work-section,
+  .how-work2-section {
+    padding: 2rem 1rem;
+  }
+  .need-img {
+    width: 12rem;
+  }
+  .need-list li {
+    padding: 0.8rem 0.5rem 0.8rem 0.4rem;
+  }
+  .span-text {
+    font-size: 0.6rem;
+  }
+  .need-text h2:first-child {
+    font-size: 1.5rem;
+  }
+  .need-text {
+    padding: 1.5rem;
+  }
+  .p-style-white {
+    font-size: 0.5rem;
+  }
+  .marketing-section {
+    padding: 1rem;
+  }
+  .how-text-box {
+    gap: 0.4rem;
+  }
+  .appie-input {
+    padding: 0.7rem 2.2rem 0.7rem 1rem;
+  }
+  .view-features-btn a {
+    font-size: 0.7rem;
+  }
+  .view-features-btn {
+    padding: 0.6rem 2.5rem 0.6rem 1rem;
+  }
+  .heading-5 {
+    font-size: 1.2rem;
+  }
+}
